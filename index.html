@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<!--SEO-->
+<title>SELF • SENSE — модельное агентство и школа моделей</title>
+<meta name="description" content="Школа моделей и модельное агентство SELF • SENSE: курсы для детей от 3 лет, подростков и взрослых, съёмки портфолио, онлайн-продвижение для иногородних, каталог моделей.">
+<meta property="og:title" content="SELF • SENSE — модельное агентство и школа моделей">
+<meta property="og:description" content="Школа моделей и модельное агентство SELF • SENSE: курсы для детей от 3 лет, подростков и взрослых, съёмки портфолио, онлайн-продвижение для иногородних, каталог моделей.">
+<meta property="og:image" content="media/brand/og.jpg">
+<!--/SEO-->
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#16100F">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="preload" href="assets/fonts/cormorantgaramond-normal-cyrillic-2.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="assets/fonts/manrope-normal-cyrillic-4.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="assets/css/fonts.css">
+<link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body class="is-loading" data-theme="dark">
+
+<!-- Прелоадер -->
+<div class="preloader" id="preloader" aria-hidden="true">
+  <div class="preloader__inner">
+    <div class="preloader__word"><span class="pl-l">S</span><span class="pl-l">E</span><span class="pl-l">L</span><span class="pl-l">F</span><span class="pl-dot"></span><span class="pl-l">S</span><span class="pl-l">E</span><span class="pl-l">N</span><span class="pl-l">S</span><span class="pl-l">E</span></div>
+    <div class="preloader__sub">Модельное агентство &nbsp;|&nbsp; Школа моделей</div>
+  </div>
+  <div class="preloader__bar"><i></i></div>
+  <div class="preloader__count"><span id="plCount">0</span>%</div>
+</div>
+
+<!-- Курсор -->
+<div class="cursor" id="cursor" aria-hidden="true"><div class="cursor__ring"><span class="cursor__label"></span></div><div class="cursor__dot"></div></div>
+<div class="scroll-progress" aria-hidden="true"><i id="scrollProgress"></i></div>
+<div class="grain" aria-hidden="true"></div>
+
+<!-- Шапка -->
+<header class="header" id="header">
+  <a href="#top" class="logo" data-scroll-to aria-label="SELF • SENSE — наверх">
+    <span class="logo__l" data-brand-left>SELF</span><i class="logo__dot"></i><span class="logo__r" data-brand-right>SENSE</span>
+  </a>
+  <nav class="nav" id="nav" aria-label="Основная навигация"></nav>
+  <div class="header__actions">
+    <a href="#apply" class="btn btn--pill btn--accent magnetic" data-scroll-to data-prefill="trial"><span data-text="Пробный урок">Пробный урок</span></a>
+    <button class="burger" id="burger" aria-label="Открыть меню" aria-expanded="false"><i></i><i></i></button>
+  </div>
+</header>
+
+<!-- Мобильное меню -->
+<div class="menu" id="menu" aria-hidden="true">
+  <div class="menu__bg"></div>
+  <nav class="menu__nav" id="menuNav"></nav>
+  <div class="menu__foot" id="menuFoot"></div>
+</div>
+
+<main id="app" class="app"></main>
+<footer class="footer" id="footer" data-theme="dark"></footer>
+
+<!-- Профиль модели -->
+<div class="modal" id="modelModal" role="dialog" aria-modal="true" aria-hidden="true" aria-labelledby="mmName">
+  <div class="modal__shade" data-close></div>
+  <div class="modal__panel">
+    <button class="modal__close" data-close aria-label="Закрыть"><span></span><span></span></button>
+    <div class="modal__scroll" data-lenis-prevent><div class="modal__body" id="modelModalBody"></div></div>
+  </div>
+</div>
+
+<!-- Лайтбокс -->
+<div class="lightbox" id="lightbox" aria-hidden="true">
+  <button class="lightbox__close" data-lb-close aria-label="Закрыть"><span></span><span></span></button>
+  <button class="lightbox__nav lightbox__prev" data-lb-prev aria-label="Назад">←</button>
+  <img alt="" id="lightboxImg">
+  <button class="lightbox__nav lightbox__next" data-lb-next aria-label="Вперёд">→</button>
+  <div class="lightbox__count" id="lightboxCount"></div>
+</div>
+
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+<noscript><div class="noscript">Для работы сайта включите JavaScript.</div></noscript>
+
+<script src="assets/vendor/gsap.min.js" defer></script>
+<script src="assets/vendor/ScrollTrigger.min.js" defer></script>
+<script src="assets/vendor/lenis.min.js" defer></script>
+<script src="assets/js/app.js" defer></script>
+</body>
+</html>

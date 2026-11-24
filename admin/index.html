@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Админка — SELF • SENSE</title>
+<link rel="icon" href="../favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="../assets/css/fonts.css">
+<link rel="stylesheet" href="admin.css">
+</head>
+<body>
+
+<!-- Вход -->
+<section class="login" id="login">
+  <div class="login__card">
+    <div class="login__logo">SELF <i></i> SENSE</div>
+    <p class="login__sub">Панель управления сайтом</p>
+    <form id="loginForm" autocomplete="off">
+      <label class="f"><span>GitHub-токен</span><input type="password" name="token" placeholder="github_pat_…" autocomplete="off" required></label>
+      <div class="f-row">
+        <label class="f"><span>Владелец (логин)</span><input name="owner" placeholder="username" required></label>
+        <label class="f"><span>Репозиторий</span><input name="repo" placeholder="self-sense" required></label>
+      </div>
+      <label class="f"><span>Ветка</span><input name="branch" value="main" required></label>
+      <label class="check"><input type="checkbox" name="remember" checked><span>Запомнить на этом устройстве</span></label>
+      <button class="a-btn a-btn--primary a-btn--wide" type="submit">Войти</button>
+      <p class="login__err" id="loginErr" hidden></p>
+    </form>
+    <button class="a-link" id="localMode" type="button">Работать без GitHub (локально, с выгрузкой файла)</button>
+    <details class="login__help">
+      <summary>Как получить токен?</summary>
+      <ol>
+        <li>GitHub → аватар → <b>Settings</b> → <b>Developer settings</b> → <b>Personal access tokens</b> → <b>Fine-grained tokens</b> → <b>Generate new token</b>.</li>
+        <li>Repository access: <b>Only select repositories</b> → выберите репозиторий сайта.</li>
+        <li>Permissions → Repository permissions → <b>Contents: Read and write</b> (по желанию ещё <b>Pages: Read</b> — чтобы видеть статус публикации).</li>
+        <li>Скопируйте токен и вставьте сюда. Токен хранится только в этом браузере.</li>
+      </ol>
+    </details>
+  </div>
+</section>
+
+<!-- Приложение -->
+<div class="app" id="app" hidden>
+  <aside class="side" id="side">
+    <div class="side__brand">SELF <i></i> SENSE <small>admin</small></div>
+    <nav class="side__nav" id="sideNav"></nav>
+    <div class="side__foot">
+      <div class="side__repo" id="repoInfo"></div>
+      <button class="a-link" id="logout">Выйти</button>
+    </div>
+  </aside>
+  <div class="main">
+    <header class="top">
+      <button class="top__burger" id="sideToggle" aria-label="Меню">☰</button>
+      <div class="top__title" id="topTitle"></div>
+      <div class="top__status" id="status"><i></i><span>Загрузка…</span></div>
+      <div class="top__actions">
+        <button class="a-btn" id="previewBtn" title="Открыть сайт с текущими изменениями">Предпросмотр</button>
+        <div class="dd">
+          <button class="a-btn" id="moreBtn">⋯</button>
+          <div class="dd__menu" id="moreMenu">
+            <button data-act="download">Скачать content.json</button>
+            <button data-act="upload">Загрузить content.json</button>
+            <button data-act="reload">Перезагрузить с сервера</button>
+            <a href="../" target="_blank" rel="noopener">Открыть сайт</a>
+          </div>
+        </div>
+        <button class="a-btn a-btn--primary" id="publishBtn">Опубликовать</button>
+      </div>
+    </header>
+    <div class="content" id="content"></div>
+  </div>
+</div>
+
+<!-- Медиатека -->
+<div class="lib" id="lib" hidden>
+  <div class="lib__shade" data-lib-close></div>
+  <div class="lib__panel">
+    <div class="lib__head">
+      <h3>Медиатека</h3>
+      <div class="lib__tabs"><button class="is-on" data-lib-tab="img">Фото</button><button data-lib-tab="video">Видео</button></div>
+      <input class="lib__search" type="search" placeholder="Поиск по имени файла">
+      <label class="a-btn a-btn--primary lib__up">Загрузить<input type="file" id="libUpload" multiple hidden></label>
+      <button class="lib__x" data-lib-close aria-label="Закрыть">×</button>
+    </div>
+    <div class="lib__grid" id="libGrid"></div>
+    <div class="lib__foot"><span id="libCount"></span><button class="a-btn a-btn--primary" id="libChoose" disabled>Выбрать</button></div>
+  </div>
+</div>
+
+<input type="file" id="jsonUpload" accept="application/json,.json" hidden>
+<div class="toasts" id="toasts"></div>
+<div class="busy" id="busy" hidden><div class="busy__box"><i></i><span id="busyText">Сохраняем…</span></div></div>
+
+<script src="admin.js"></script>
+</body>
+</html>

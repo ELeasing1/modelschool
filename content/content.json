@@ -1,0 +1,1415 @@
+{
+ "settings": {
+  "brandLeft": "SELF",
+  "brandRight": "SENSE",
+  "descriptor": "Модельное агентство | Школа моделей",
+  "accent": "#510D1B",
+  "ink": "#16100F",
+  "paper": "#F4EFE8",
+  "preloader": true,
+  "cursor": true,
+  "smoothScroll": true,
+  "seo": {
+   "title": "SELF • SENSE — модельное агентство и школа моделей",
+   "description": "Школа моделей и модельное агентство SELF • SENSE: курсы для детей от 3 лет, подростков и взрослых, съёмки портфолио, онлайн-продвижение для иногородних, каталог моделей.",
+   "ogImage": "media/brand/og.jpg"
+  }
+ },
+ "contacts": {
+  "phone": "+7 (900) 000-00-00",
+  "email": "hello@self-sense.ru",
+  "telegram": "self_sense",
+  "whatsapp": "79000000000",
+  "instagram": "self.sense",
+  "vk": "",
+  "address": "Студия SELF • SENSE",
+  "hours": "Ежедневно 10:00 — 20:00"
+ },
+ "sections": [
+  {
+   "id": "hero",
+   "label": "Главный экран",
+   "visible": true
+  },
+  {
+   "id": "manifesto",
+   "label": "Философия",
+   "visible": true
+  },
+  {
+   "id": "values",
+   "label": "Ценности",
+   "visible": true
+  },
+  {
+   "id": "marquee",
+   "label": "Бегущая строка",
+   "visible": true
+  },
+  {
+   "id": "audience",
+   "label": "Для кого",
+   "visible": true
+  },
+  {
+   "id": "courses",
+   "label": "Курсы",
+   "visible": true
+  },
+  {
+   "id": "disciplines",
+   "label": "Программа",
+   "visible": true
+  },
+  {
+   "id": "stats",
+   "label": "Цифры",
+   "visible": true
+  },
+  {
+   "id": "runway",
+   "label": "Выпускной показ",
+   "visible": true
+  },
+  {
+   "id": "zoom",
+   "label": "Акцентный кадр",
+   "visible": true
+  },
+  {
+   "id": "catalog",
+   "label": "Каталог моделей",
+   "visible": true
+  },
+  {
+   "id": "campaigns",
+   "label": "Кампании брендов",
+   "visible": true
+  },
+  {
+   "id": "portfolio",
+   "label": "Съёмки портфолио",
+   "visible": true
+  },
+  {
+   "id": "promotion",
+   "label": "Онлайн-продвижение",
+   "visible": true
+  },
+  {
+   "id": "services",
+   "label": "Доп. услуги",
+   "visible": true
+  },
+  {
+   "id": "senior",
+   "label": "Модели 60+ / 70+",
+   "visible": true
+  },
+  {
+   "id": "gallery",
+   "label": "Галерея",
+   "visible": true
+  },
+  {
+   "id": "faq",
+   "label": "Вопросы",
+   "visible": true
+  },
+  {
+   "id": "apply",
+   "label": "Запись и заявки",
+   "visible": true
+  }
+ ],
+ "nav": [
+  {
+   "label": "Философия",
+   "href": "#manifesto"
+  },
+  {
+   "label": "Курсы",
+   "href": "#courses"
+  },
+  {
+   "label": "Модели",
+   "href": "#catalog"
+  },
+  {
+   "label": "Портфолио",
+   "href": "#portfolio"
+  },
+  {
+   "label": "Онлайн",
+   "href": "#promotion"
+  },
+  {
+   "label": "Контакты",
+   "href": "#apply"
+  }
+ ],
+ "hero": {
+  "kicker": "Модельное агентство и школа моделей",
+  "tagline": "Чувствовать себя — быть собой",
+  "subtitle": "Не учим быть «каким-то». Помогаем раскрыть *себя настоящего.*",
+  "note": "Дети от 3 лет · Подростки 12–17 · Взрослые 18+ · 60+ и 70+",
+  "cta": {
+   "label": "Пробный урок",
+   "href": "#apply"
+  },
+  "cta2": {
+   "label": "Каталог моделей",
+   "href": "#catalog"
+  },
+  "videos": [
+   {
+    "src": "media/video/hero-2.mp4",
+    "poster": "media/video/hero-2.webp"
+   },
+   {
+    "src": "media/video/hero-1.mp4",
+    "poster": "media/video/hero-1.webp"
+   },
+   {
+    "src": "media/video/hero-3.mp4",
+    "poster": "media/video/hero-3.webp"
+   }
+  ]
+ },
+ "manifesto": {
+  "label": "Философия",
+  "text": "Мы не учим быть [img:media/img/k1-0308.webp] «какими-то». Мы помогаем *почувствовать себя* — и раскрыть себя настоящего [img:media/img/tb-tests_053.webp] через искренность, естественность и *отсутствие масок.* Здесь каждый — ребёнок, подросток или взрослый — открывает [img:media/img/a2-3029.webp] новые возможности.",
+  "signature": "SELF • SENSE — чувствовать себя"
+ },
+ "values": {
+  "label": "Ценности",
+  "title": "Три принципа, на которых *строится всё*",
+  "items": [
+   {
+    "title": "Искренность",
+    "text": "Камера считывает правду. Мы учим не играть роль, а быть в кадре честными — с собой и со зрителем. Именно это делает снимок живым.",
+    "image": "media/img/tb-tests_026.webp"
+   },
+   {
+    "title": "Естественность",
+    "text": "Не копировать чужие позы и чужую красоту, а найти свою пластику, свой взгляд, свою подачу. Естественность — высший уровень мастерства.",
+    "image": "media/img/k1-0320.webp"
+   },
+   {
+    "title": "Без масок",
+    "text": "Мы создаём пространство, где не нужно соответствовать. Уверенность приходит тогда, когда больше не нужно прятаться.",
+    "image": "media/img/t5-5583.webp"
+   }
+  ]
+ },
+ "marquee": {
+  "items": [
+   "Искренность",
+   "Естественность",
+   "Без масок",
+   "Чувствовать себя",
+   "Быть собой"
+  ],
+  "images": [
+   "media/img/k1-0303.webp",
+   "media/img/tb-tests_040.webp",
+   "media/img/lev-lev_015.webp",
+   "media/img/a1-3019.webp",
+   "media/img/t2-5516.webp"
+  ]
+ },
+ "audience": {
+  "label": "Для кого",
+  "title": "Возраст — не граница. *Граница только в голове.*",
+  "items": [
+   {
+    "age": "3+",
+    "title": "Дети",
+    "text": "Игровой формат, уверенность в себе, первые съёмки и выпускной показ.",
+    "image": "media/img/lev-lev_015.webp"
+   },
+   {
+    "age": "12–17",
+    "title": "Подростки",
+    "text": "Подготовка к модельной карьере, участие в проектах, фотопробы.",
+    "image": "media/img/tb-tests_053.webp"
+   },
+   {
+    "age": "18+",
+    "title": "Взрослые",
+    "text": "Пластика, подиум, работа с камерой и портфолио «под ключ».",
+    "image": "media/img/a2-3029.webp"
+   },
+   {
+    "age": "60+",
+    "title": "Зрелые модели",
+    "text": "Сейчас особенно востребованы модели 60+ и 70+. Мы ждём вас.",
+    "image": ""
+   }
+  ]
+ },
+ "courses": {
+  "label": "Курсы",
+  "title": "Три программы. Одна цель — *раскрыть себя.*",
+  "text": "Каждый курс — это система: подиум, актёрское мастерство, ораторское искусство, пластика, макияж, этикет, стиль и психология. И финал, который запоминается навсегда.",
+  "items": [
+   {
+    "id": "kids",
+    "tag": "Дети · 3+",
+    "title": "Основы моделинга для детей",
+    "duration": "36 недель",
+    "hours": "72 часа",
+    "start": "Набор открыт",
+    "program": [
+     "Подиум",
+     "Актёрское мастерство",
+     "Ораторское искусство",
+     "Хореография",
+     "Макияж",
+     "Этикет",
+     "Стиль",
+     "Психология"
+    ],
+    "included": [
+     "3 съёмки для портфолио",
+     "Выпускной показ"
+    ],
+    "bonus": "",
+    "priceMonth": "8 000 ₽",
+    "priceMonthLabel": "за 4 недели",
+    "priceFull": "65 000 ₽",
+    "priceFullLabel": "за весь курс",
+    "image": "media/img/k1-0334.webp",
+    "image2": "media/img/lev-lev_036.webp"
+   },
+   {
+    "id": "teens",
+    "tag": "Подростки · 12–17",
+    "title": "Модельная подготовка для подростков",
+    "duration": "36 недель",
+    "hours": "",
+    "start": "Набор открыт",
+    "program": [
+     "Подиум",
+     "Позирование",
+     "Актёрское мастерство",
+     "Пластика",
+     "Стиль",
+     "Психология уверенности"
+    ],
+    "included": [
+     "Подготовка к модельной карьере",
+     "Участие в проектах"
+    ],
+    "bonus": "Фотопробы и выпускной показ",
+    "priceMonth": "",
+    "priceMonthLabel": "",
+    "priceFull": "По запросу",
+    "priceFullLabel": "стоимость",
+    "image": "media/img/tb-tests_030.webp",
+    "image2": "media/img/t2-5516.webp"
+   },
+   {
+    "id": "adults",
+    "tag": "Взрослые · 18+",
+    "title": "Основы моделинга для взрослых",
+    "duration": "18 недель",
+    "hours": "36 часов",
+    "start": "Старт 8 ноября",
+    "program": [
+     "Подиум",
+     "Актёрское мастерство",
+     "Ораторское искусство",
+     "Пластика",
+     "Макияж",
+     "Этикет",
+     "Стиль",
+     "Психология",
+     "Основы моделинга"
+    ],
+    "included": [
+     "Профессиональная съёмка портфолио «под ключ»"
+    ],
+    "bonus": "Съёмка портфолио «под ключ»",
+    "priceMonth": "10 000 ₽",
+    "priceMonthLabel": "за 4 недели",
+    "priceFull": "40 000 ₽",
+    "priceFullLabel": "за весь курс",
+    "image": "media/img/a1-3017.webp",
+    "image2": "media/img/a2-3022.webp"
+   }
+  ]
+ },
+ "disciplines": {
+  "label": "Программа",
+  "title": "Чему мы *учим*",
+  "items": [
+   {
+    "title": "Подиум",
+    "text": "Походка, разворот, ритм и уверенность на любом подиуме.",
+    "image": "media/img/tb-tests_024.webp"
+   },
+   {
+    "title": "Актёрское мастерство",
+    "text": "Эмоция, состояние и работа в кадре без зажимов.",
+    "image": "media/img/k1-0339.webp"
+   },
+   {
+    "title": "Ораторское искусство",
+    "text": "Голос, речь и умение держать внимание.",
+    "image": "media/img/a2-3027.webp"
+   },
+   {
+    "title": "Хореография и пластика",
+    "text": "Тело, которое слушается и красиво звучит в движении.",
+    "image": "media/img/k1-0338.webp"
+   },
+   {
+    "title": "Макияж",
+    "text": "Основы визажа: свой образ — своими руками.",
+    "image": "media/img/bts-s1.webp"
+   },
+   {
+    "title": "Этикет",
+    "text": "Манеры, которые видно с первого взгляда.",
+    "image": "media/img/tb-tests_004.webp"
+   },
+   {
+    "title": "Стиль",
+    "text": "Как одеваться под себя и собирать образы для кастингов.",
+    "image": "media/img/a1-3013.webp"
+   },
+   {
+    "title": "Психология",
+    "text": "Уверенность, самоценность и умение чувствовать себя.",
+    "image": "media/img/t2-5519.webp"
+   },
+   {
+    "title": "Основы моделинга",
+    "text": "Профессия изнутри: кастинги, агентства, портфолио.",
+    "image": "media/img/t5-5598.webp"
+   }
+  ]
+ },
+ "stats": {
+  "items": [
+   {
+    "value": "72",
+    "suffix": "",
+    "label": "часа практики в детском курсе"
+   },
+   {
+    "value": "36",
+    "suffix": "",
+    "label": "недель обучения для детей и подростков"
+   },
+   {
+    "value": "3",
+    "suffix": "",
+    "label": "профессиональные съёмки в детской программе"
+   },
+   {
+    "value": "3",
+    "suffix": "+",
+    "label": "от 3 лет — и до бесконечности"
+   }
+  ]
+ },
+ "runway": {
+  "label": "Финал курса",
+  "title": "Выпускной *показ*",
+  "text": "Каждый курс завершается настоящим показом: свет, подиум, зрители и первый выход, который остаётся с человеком навсегда.",
+  "video": "media/video/runway.mp4",
+  "poster": "media/video/runway.webp",
+  "video2": "media/video/kids-pose.mp4",
+  "poster2": "media/video/kids-pose.webp"
+ },
+ "zoom": {
+  "titleLeft": "Почувствуй",
+  "titleRight": "себя",
+  "image": "media/img/tb-tests_045.webp",
+  "caption": "Индивидуальность — главный образ, который невозможно скопировать."
+ },
+ "catalog": {
+  "label": "Агентство",
+  "title": "Модели *SELF • SENSE*",
+  "text": "Наведите курсор на карточку — фотографии сменятся. Откройте профиль, чтобы увидеть параметры и полное портфолио.",
+  "categories": [
+   {
+    "id": "kids",
+    "label": "Дети",
+    "range": "3–11"
+   },
+   {
+    "id": "teens",
+    "label": "Подростки",
+    "range": "12–17"
+   },
+   {
+    "id": "adults",
+    "label": "Взрослые",
+    "range": "18+"
+   },
+   {
+    "id": "senior",
+    "label": "60+",
+    "range": "60+ / 70+"
+   }
+  ],
+  "emptyTitle": "Здесь можете быть вы",
+  "emptyText": "Мы открыли набор моделей 60+ и 70+. Опыт не нужен — нужна только готовность быть собой.",
+  "models": [
+   {
+    "id": "lev",
+    "name": "Лев",
+    "category": "kids",
+    "gender": "m",
+    "birthYear": 2022,
+    "city": "",
+    "height": 104,
+    "bust": "",
+    "waist": "",
+    "hips": "",
+    "shoes": "26",
+    "clothes": "104",
+    "hair": "Светло-русые",
+    "eyes": "Голубые",
+    "about": "Открытый, подвижный и невероятно обаятельный. Легко идёт на контакт с фотографом, не боится камеры и сам предлагает идеи для кадра.",
+    "photos": [
+     "media/img/lev-lev_015.webp",
+     "media/img/lev-lev_001.webp",
+     "media/img/lev-lev_028.webp",
+     "media/img/lev-lev_036.webp",
+     "media/img/lev-lev_008.webp",
+     "media/img/lev-lev_003.webp",
+     "media/img/lev-lev_022.webp",
+     "media/img/lev-lev_042.webp",
+     "media/img/lev-lev_045.webp",
+     "media/img/lev-lev_049.webp",
+     "media/img/lev-lev_050.webp",
+     "media/img/lev-lev_053.webp",
+     "media/img/lev-lev_005.webp",
+     "media/img/lev-lev_012.webp",
+     "media/img/lev-lev_017.webp",
+     "media/img/lev-lev_020.webp",
+     "media/img/lev-lev_025.webp",
+     "media/img/lev-lev_029.webp",
+     "media/img/lev-lev_031.webp",
+     "media/img/lev-lev_039.webp"
+    ],
+    "featured": true,
+    "tags": [
+     "коммерция",
+     "каталог"
+    ]
+   },
+   {
+    "id": "eva",
+    "name": "Ева",
+    "category": "kids",
+    "gender": "f",
+    "birthYear": 2022,
+    "city": "",
+    "height": 98,
+    "bust": "",
+    "waist": "",
+    "hips": "",
+    "shoes": "25",
+    "clothes": "98",
+    "hair": "Блонд",
+    "eyes": "Голубые",
+    "about": "Нежная и улыбчивая. Обожает наряды и реквизит, естественно держится в кадре и быстро осваивается на площадке.",
+    "photos": [
+     "media/img/g1-test19_021.webp",
+     "media/img/g1-test19_003.webp",
+     "media/img/g1-test19_005.webp",
+     "media/img/g1-test19_016.webp",
+     "media/img/g1-test19_008.webp",
+     "media/img/g1-test19_010.webp",
+     "media/img/g1-test19_013.webp",
+     "media/img/g1-test19_017.webp",
+     "media/img/g1-test19_018.webp",
+     "media/img/g1-test19_019.webp",
+     "media/img/g1-test19_002.webp",
+     "media/img/g1-test19_012.webp"
+    ],
+    "featured": true,
+    "tags": [
+     "каталог",
+     "lifestyle"
+    ]
+   },
+   {
+    "id": "mark",
+    "name": "Марк",
+    "category": "kids",
+    "gender": "m",
+    "birthYear": 2023,
+    "city": "",
+    "height": 90,
+    "bust": "",
+    "waist": "",
+    "hips": "",
+    "shoes": "23",
+    "clothes": "92",
+    "hair": "Светло-русые",
+    "eyes": "Голубые",
+    "about": "Любознательный и спокойный. Живые эмоции и искренний взгляд — то, за что его любят фотографы.",
+    "photos": [
+     "media/img/b1-test19_022.webp",
+     "media/img/b1-test19_024.webp",
+     "media/img/b1-test19_023.webp",
+     "media/img/b1-test19_030.webp",
+     "media/img/b1-test19_031.webp",
+     "media/img/b1-test19_025.webp",
+     "media/img/b1-test19_029.webp",
+     "media/img/b1-test19_034.webp",
+     "media/img/b1-test19_036.webp",
+     "media/img/b1-test19_037.webp"
+    ],
+    "featured": false,
+    "tags": [
+     "каталог"
+    ]
+   },
+   {
+    "id": "miya",
+    "name": "Мия",
+    "category": "kids",
+    "gender": "f",
+    "birthYear": 2023,
+    "city": "",
+    "height": 86,
+    "bust": "",
+    "waist": "",
+    "hips": "",
+    "shoes": "22",
+    "clothes": "86",
+    "hair": "Русые",
+    "eyes": "Карие",
+    "about": "Маленькая звезда с выразительным взглядом. Спокойно работает в кадре и дарит фотографу настоящие эмоции.",
+    "photos": [
+     "media/img/g2-test19_041.webp",
+     "media/img/g2-test19_038.webp",
+     "media/img/g2-test19_040.webp",
+     "media/img/g2-test19_043.webp",
+     "media/img/g2-test19_044.webp",
+     "media/img/g2-test19_045.webp",
+     "media/img/g2-test19_048.webp",
+     "media/img/g2-test19_049.webp"
+    ],
+    "featured": false,
+    "tags": [
+     "каталог"
+    ]
+   },
+   {
+    "id": "alisa",
+    "name": "Алиса",
+    "category": "kids",
+    "gender": "f",
+    "birthYear": 2016,
+    "city": "",
+    "height": 142,
+    "bust": "66",
+    "waist": "56",
+    "hips": "70",
+    "shoes": "34",
+    "clothes": "140",
+    "hair": "Русые, длинные",
+    "eyes": "Серо-голубые",
+    "about": "Пластичная, внимательная и очень естественная. Уверенно работает с позированием, хорошо чувствует свет и образ.",
+    "photos": [
+     "media/img/k1-0308.webp",
+     "media/img/k1-0303.webp",
+     "media/img/k1-0305.webp",
+     "media/img/k1-0320.webp",
+     "media/img/k1-0334.webp",
+     "media/img/k1-0338.webp",
+     "media/img/k1-0344.webp",
+     "media/img/k1-0310.webp",
+     "media/img/k1-0311.webp",
+     "media/img/k1-0318.webp",
+     "media/img/k1-0322.webp",
+     "media/img/k1-0323.webp",
+     "media/img/k1-0326.webp",
+     "media/img/k1-0328.webp",
+     "media/img/k1-0331.webp",
+     "media/img/k1-0335.webp",
+     "media/img/k1-0339.webp",
+     "media/img/k1-0341.webp",
+     "media/img/k1-0342.webp",
+     "media/img/k1-0346.webp",
+     "media/img/k1-0348.webp",
+     "media/img/k1-4211.webp",
+     "media/img/k1-4216.webp"
+    ],
+    "featured": true,
+    "tags": [
+     "fashion",
+     "каталог",
+     "показы"
+    ]
+   },
+   {
+    "id": "polina",
+    "name": "Полина",
+    "category": "kids",
+    "gender": "f",
+    "birthYear": 2015,
+    "city": "",
+    "height": 146,
+    "bust": "",
+    "waist": "",
+    "hips": "",
+    "shoes": "35",
+    "clothes": "146",
+    "hair": "Рыжие, длинные",
+    "eyes": "Голубые",
+    "about": "Яркая внешность и мягкая, тёплая энергия. Отлично держится в видеосъёмках и живо реагирует на задачу.",
+    "photos": [
+     "media/img/k2-0719.webp",
+     "media/img/k2-v1.webp",
+     "media/img/k2-v2.webp",
+     "media/img/k2-v4.webp",
+     "media/img/k2-v5.webp",
+     "media/img/k2-v3.webp",
+     "media/img/k2-v6.webp",
+     "media/img/k2-v7.webp",
+     "media/img/k2-4288.webp"
+    ],
+    "featured": true,
+    "tags": [
+     "видео",
+     "коммерция"
+    ]
+   },
+   {
+    "id": "kseniya",
+    "name": "Ксения",
+    "category": "teens",
+    "gender": "f",
+    "birthYear": 2010,
+    "city": "",
+    "height": 172,
+    "bust": "80",
+    "waist": "60",
+    "hips": "88",
+    "shoes": "38",
+    "clothes": "XS",
+    "hair": "Тёмно-каштановые",
+    "eyes": "Зелёные",
+    "about": "Редкое сочетание графичной внешности и мягкости. Сильна в fashion-съёмках: держит линию, позу и настроение кадра.",
+    "photos": [
+     "media/img/tb-tests_026.webp",
+     "media/img/tb-tests_003.webp",
+     "media/img/tb-tests_022.webp",
+     "media/img/tb-tests_053.webp",
+     "media/img/tb-tests_030.webp",
+     "media/img/tb-tests_036.webp",
+     "media/img/tb-tests_004.webp",
+     "media/img/tb-tests_009.webp",
+     "media/img/tb-tests_045.webp",
+     "media/img/tb-tests_040.webp",
+     "media/img/tb-tests_005.webp",
+     "media/img/tb-tests_007.webp",
+     "media/img/tb-tests_012.webp",
+     "media/img/tb-tests_013.webp",
+     "media/img/tb-tests_018.webp",
+     "media/img/tb-tests_019.webp",
+     "media/img/tb-tests_023.webp",
+     "media/img/tb-tests_024.webp",
+     "media/img/tb-tests_031.webp",
+     "media/img/tb-tests_033.webp",
+     "media/img/tb-tests_048.webp",
+     "media/img/tb-tests_052.webp",
+     "media/img/tb-tests_054.webp",
+     "media/img/tb-tests_057.webp",
+     "media/img/tb-tests_058.webp",
+     "media/img/tb-tests_061.webp",
+     "media/img/tb-tests_063.webp",
+     "media/img/tb-tests_001.webp",
+     "media/img/tb-tests_044.webp"
+    ],
+    "featured": true,
+    "tags": [
+     "fashion",
+     "editorial"
+    ]
+   },
+   {
+    "id": "veronika",
+    "name": "Вероника",
+    "category": "teens",
+    "gender": "f",
+    "birthYear": 2011,
+    "city": "",
+    "height": 166,
+    "bust": "",
+    "waist": "",
+    "hips": "",
+    "shoes": "37",
+    "clothes": "XS",
+    "hair": "Русые",
+    "eyes": "Карие",
+    "about": "Характер и спокойная уверенность. Её сильная сторона — снэп-съёмки и образы в стиле street.",
+    "photos": [
+     "media/img/t1-5480.webp",
+     "media/img/t1-5479.webp",
+     "media/img/t1-5481.webp",
+     "media/img/t1-5483.webp",
+     "media/img/t1-5484.webp",
+     "media/img/t1-5486.webp"
+    ],
+    "featured": false,
+    "tags": [
+     "snaps"
+    ]
+   },
+   {
+    "id": "amira",
+    "name": "Амира",
+    "category": "teens",
+    "gender": "f",
+    "birthYear": 2013,
+    "city": "",
+    "height": 156,
+    "bust": "",
+    "waist": "",
+    "hips": "",
+    "shoes": "36",
+    "clothes": "152",
+    "hair": "Тёмные, длинные",
+    "eyes": "Карие",
+    "about": "Чистая, естественная красота. Внимательная и собранная, быстро учится и легко принимает задачи фотографа.",
+    "photos": [
+     "media/img/t2-5516.webp",
+     "media/img/t2-5515.webp",
+     "media/img/t2-5499.webp",
+     "media/img/t2-5517.webp",
+     "media/img/t2-5519.webp",
+     "media/img/t2-5520.webp",
+     "media/img/t2-5521.webp",
+     "media/img/t2-5500.webp",
+     "media/img/t2-5537.webp",
+     "media/img/t2-5539.webp"
+    ],
+    "featured": true,
+    "tags": [
+     "snaps",
+     "каталог"
+    ]
+   },
+   {
+    "id": "ulyana",
+    "name": "Ульяна",
+    "category": "teens",
+    "gender": "f",
+    "birthYear": 2011,
+    "city": "",
+    "height": 164,
+    "bust": "",
+    "waist": "",
+    "hips": "",
+    "shoes": "37",
+    "clothes": "XS",
+    "hair": "Каштановые",
+    "eyes": "Карие",
+    "about": "Живая мимика и пластика — особенно хороша в динамике и видеоконтенте.",
+    "photos": [
+     "media/img/t4-v1.webp",
+     "media/img/t4-5575.webp",
+     "media/img/t4-v2.webp",
+     "media/img/t4-v3.webp",
+     "media/img/t4-v4.webp",
+     "media/img/t4-v5.webp",
+     "media/img/t4-5572.webp"
+    ],
+    "featured": false,
+    "tags": [
+     "видео"
+    ]
+   },
+   {
+    "id": "matvey",
+    "name": "Матвей",
+    "category": "teens",
+    "gender": "m",
+    "birthYear": 2009,
+    "city": "",
+    "height": 182,
+    "bust": "88",
+    "waist": "70",
+    "hips": "90",
+    "shoes": "43",
+    "clothes": "S",
+    "hair": "Русые",
+    "eyes": "Серые",
+    "about": "Фактурный, с кинематографичной внешностью. Уверенно работает в fashion- и editorial-съёмках.",
+    "photos": [
+     "media/img/t5-5583.webp",
+     "media/img/t5-5576.webp",
+     "media/img/t5-5581.webp",
+     "media/img/t5-5585.webp",
+     "media/img/t5-5596.webp",
+     "media/img/t5-5598.webp",
+     "media/img/t5-5600.webp",
+     "media/img/t5-5601.webp",
+     "media/img/t5-5602.webp"
+    ],
+    "featured": true,
+    "tags": [
+     "fashion",
+     "editorial"
+    ]
+   },
+   {
+    "id": "sofiya",
+    "name": "София",
+    "category": "teens",
+    "gender": "f",
+    "birthYear": 2010,
+    "city": "",
+    "height": 170,
+    "bust": "",
+    "waist": "",
+    "hips": "",
+    "shoes": "38",
+    "clothes": "XS",
+    "hair": "Тёмно-русые",
+    "eyes": "Карие",
+    "about": "Длинные линии, спокойная подача, отличная работа в полный рост — потенциал для подиума.",
+    "photos": [
+     "media/img/t6-v1.webp",
+     "media/img/t6-v2.webp",
+     "media/img/t6-v3.webp",
+     "media/img/t6-v4.webp",
+     "media/img/t6-v5.webp",
+     "media/img/t6-v6.webp"
+    ],
+    "featured": false,
+    "tags": [
+     "подиум"
+    ]
+   },
+   {
+    "id": "viktoriya",
+    "name": "Виктория",
+    "category": "teens",
+    "gender": "f",
+    "birthYear": 2009,
+    "city": "",
+    "height": 171,
+    "bust": "",
+    "waist": "",
+    "hips": "",
+    "shoes": "38",
+    "clothes": "XS",
+    "hair": "Тёмные",
+    "eyes": "Карие",
+    "about": "Собранная, точная, с сильным взглядом. Любит образы с характером.",
+    "photos": [
+     "media/img/t7-v1.webp",
+     "media/img/t7-v2.webp",
+     "media/img/t7-v3.webp",
+     "media/img/t7-v4.webp",
+     "media/img/t7-v5.webp"
+    ],
+    "featured": false,
+    "tags": [
+     "snaps"
+    ]
+   },
+   {
+    "id": "darina",
+    "name": "Дарина",
+    "category": "adults",
+    "gender": "f",
+    "birthYear": 2007,
+    "city": "",
+    "height": 168,
+    "bust": "",
+    "waist": "",
+    "hips": "",
+    "shoes": "38",
+    "clothes": "XS",
+    "hair": "Тёмные, каре",
+    "eyes": "Карие",
+    "about": "Минимализм во всём: лаконичная подача, точная пластика и естественность.",
+    "photos": [
+     "media/img/t3-5541.webp",
+     "media/img/t3-5540.webp",
+     "media/img/t3-5542.webp"
+    ],
+    "featured": false,
+    "tags": [
+     "snaps"
+    ]
+   },
+   {
+    "id": "karina",
+    "name": "Карина",
+    "category": "adults",
+    "gender": "f",
+    "birthYear": 2003,
+    "city": "",
+    "height": 175,
+    "bust": "84",
+    "waist": "62",
+    "hips": "90",
+    "shoes": "39",
+    "clothes": "XS",
+    "hair": "Тёмные, длинные",
+    "eyes": "Карие",
+    "about": "Сильная, графичная, с выразительным взглядом. Её стихия — fashion- и beauty-съёмки.",
+    "photos": [
+     "media/img/a1-3019.webp",
+     "media/img/a1-3012.webp",
+     "media/img/a1-3013.webp",
+     "media/img/a1-3017.webp",
+     "media/img/a1-3010.webp",
+     "media/img/a1-3014.webp",
+     "media/img/a1-3015.webp",
+     "media/img/a1-3016.webp",
+     "media/img/a1-3018.webp",
+     "media/img/a1-3020.webp"
+    ],
+    "featured": true,
+    "tags": [
+     "fashion",
+     "beauty"
+    ]
+   },
+   {
+    "id": "diana",
+    "name": "Диана",
+    "category": "adults",
+    "gender": "f",
+    "birthYear": 1994,
+    "city": "",
+    "height": 170,
+    "bust": "86",
+    "waist": "64",
+    "hips": "92",
+    "shoes": "38",
+    "clothes": "S",
+    "hair": "Каштановые, короткие",
+    "eyes": "Карие",
+    "about": "Харизма и зрелая женственность. Прекрасно работает в editorial и рекламе.",
+    "photos": [
+     "media/img/a2-3029.webp",
+     "media/img/a2-3021.webp",
+     "media/img/a2-3022.webp",
+     "media/img/a2-3025.webp",
+     "media/img/a2-3026.webp",
+     "media/img/a2-3027.webp",
+     "media/img/a2-3023.webp",
+     "media/img/a2-3028.webp",
+     "media/img/a2-3030.webp",
+     "media/img/a2-3031.webp"
+    ],
+    "featured": true,
+    "tags": [
+     "editorial",
+     "реклама"
+    ]
+   }
+  ]
+ },
+ "campaigns": {
+  "label": "Успех",
+  "title": "Наши модели в кампаниях *брендов*",
+  "text": "Лукбуки, каталоги, рекламные кампании и e-commerce. Работы, которыми мы гордимся.",
+  "brands": [
+   "ANQILA",
+   "Paw in Paw",
+   "BISKET",
+   "ASK Junior",
+   "Existentialism Kids",
+   "Naiyoo",
+   "ZAOANJIA",
+   "YANGSU",
+   "Black Tinny",
+   "Little Naive",
+   "D.V Moda"
+  ],
+  "items": [
+   {
+    "image": "media/img/c-30302.webp",
+    "brand": "Existentialism Kids"
+   },
+   {
+    "image": "media/img/c-3002.webp",
+    "brand": "ANQILA"
+   },
+   {
+    "image": "media/img/c-2141.webp",
+    "brand": "Paw in Paw"
+   },
+   {
+    "image": "media/img/c-8016.webp",
+    "brand": "ZAOANJIA"
+   },
+   {
+    "image": "media/img/c-9188.webp",
+    "brand": "Kids lookbook"
+   },
+   {
+    "image": "media/img/c-2890.webp",
+    "brand": "BISKET"
+   },
+   {
+    "image": "media/img/c-3006.webp",
+    "brand": "ASK Junior"
+   },
+   {
+    "image": "media/img/c-9451.webp",
+    "brand": "Naiyoo"
+   },
+   {
+    "image": "media/img/c-4106.webp",
+    "brand": "Existentialism Kids"
+   },
+   {
+    "image": "media/img/c-0311.webp",
+    "brand": "Black Tinny"
+   },
+   {
+    "image": "media/img/c-8019.webp",
+    "brand": "YANGSU"
+   },
+   {
+    "image": "media/img/c-9565.webp",
+    "brand": "Kids lookbook"
+   },
+   {
+    "image": "media/img/c-3532.webp",
+    "brand": "Paw in Paw"
+   },
+   {
+    "image": "media/img/c-4202.webp",
+    "brand": "ASK Junior"
+   },
+   {
+    "image": "media/img/c-9500.webp",
+    "brand": "Naiyoo"
+   },
+   {
+    "image": "media/img/c-2909.webp",
+    "brand": "BISKET"
+   },
+   {
+    "image": "media/img/c-3004.webp",
+    "brand": "ANQILA"
+   },
+   {
+    "image": "media/img/c-7419.webp",
+    "brand": "Kids lookbook"
+   },
+   {
+    "image": "media/img/c-4107.webp",
+    "brand": "Existentialism Kids"
+   },
+   {
+    "image": "media/img/c-0312.webp",
+    "brand": "Black Tinny"
+   },
+   {
+    "image": "media/img/c-9187.webp",
+    "brand": "Kids lookbook"
+   },
+   {
+    "image": "media/img/c-3533.webp",
+    "brand": "Paw in Paw"
+   },
+   {
+    "image": "media/img/c-9567.webp",
+    "brand": "Kids lookbook"
+   },
+   {
+    "image": "media/img/c-3003.webp",
+    "brand": "ANQILA"
+   },
+   {
+    "image": "media/img/c-4105.webp",
+    "brand": "Existentialism Kids"
+   },
+   {
+    "image": "media/img/c-2145.webp",
+    "brand": "Paw in Paw"
+   },
+   {
+    "image": "media/img/c-9103.webp",
+    "brand": "Kids lookbook"
+   },
+   {
+    "image": "media/img/c-7418.webp",
+    "brand": "Kids lookbook"
+   },
+   {
+    "image": "media/img/c-9563.webp",
+    "brand": "Kids lookbook"
+   },
+   {
+    "image": "media/img/c-9587.webp",
+    "brand": "Lookbook"
+   },
+   {
+    "image": "media/img/c-3531.webp",
+    "brand": "Paw in Paw"
+   },
+   {
+    "image": "media/img/c-9105.webp",
+    "brand": "Kids lookbook"
+   },
+   {
+    "image": "media/img/c-7420.webp",
+    "brand": "Kids lookbook"
+   },
+   {
+    "image": "media/img/c-9564.webp",
+    "brand": "Kids lookbook"
+   },
+   {
+    "image": "media/img/c-9487.webp",
+    "brand": "Lookbook"
+   },
+   {
+    "image": "media/img/c-2146.webp",
+    "brand": "Paw in Paw"
+   },
+   {
+    "image": "media/img/c-9566.webp",
+    "brand": "Kids lookbook"
+   },
+   {
+    "image": "media/img/c-9107.webp",
+    "brand": "Kids lookbook"
+   },
+   {
+    "image": "media/img/c-7907.webp",
+    "brand": "Editorial"
+   }
+  ]
+ },
+ "portfolio": {
+  "label": "Съёмки",
+  "title": "Портфолио, которое *работает*",
+  "text": "Мы снимаем не просто красивые фото, а рабочее модельное портфолио: снэпы, тесты и образы, которые хотят видеть агентства и бренды.",
+  "features": [
+   {
+    "title": "Концепция и образы",
+    "text": "Подбираем стилистику и образы под ваш типаж и цели."
+   },
+   {
+    "title": "Стилист и визажист",
+    "text": "Макияж, укладка и стилизация прямо на площадке."
+   },
+   {
+    "title": "Профессиональная студия",
+    "text": "Свет, фотограф и атмосфера, в которой легко раскрыться."
+   },
+   {
+    "title": "Снэпы и полароиды",
+    "text": "Базовые кадры, без которых не обходится ни одно агентство."
+   },
+   {
+    "title": "Отбор и ретушь",
+    "text": "Лучшие кадры в аккуратной ретуши — без потери естественности."
+   }
+  ],
+  "price": "Стоимость — по запросу",
+  "cta": {
+   "label": "Записаться на съёмку",
+   "href": "#apply"
+  },
+  "videos": [
+   {
+    "src": "media/video/bts-styling.mp4",
+    "poster": "media/video/bts-styling.webp"
+   },
+   {
+    "src": "media/video/bts-makeup.mp4",
+    "poster": "media/video/bts-makeup.webp"
+   },
+   {
+    "src": "media/video/bts-set.mp4",
+    "poster": "media/video/bts-set.webp"
+   }
+  ],
+  "images": [
+   "media/img/tb-tests_022.webp",
+   "media/img/t5-5576.webp",
+   "media/img/k1-0344.webp",
+   "media/img/a2-3021.webp",
+   "media/img/lev-lev_042.webp",
+   "media/img/t2-5515.webp"
+  ]
+ },
+ "promotion": {
+  "label": "Онлайн",
+  "title": "Продвижение для *иногородних*",
+  "text": "Не важно, в каком городе вы живёте. Я лично веду каждого участника: даю рекомендации и направляю на то портфолио, которое будет работать именно на вас. Вы удалённо получаете все навыки и знания о том, как стать моделью, — и создаёте рабочее портфолио.",
+  "format": "Онлайн · личное сопровождение",
+  "price": "Стоимость — по запросу",
+  "steps": [
+   {
+    "title": "Знакомство и разбор",
+    "text": "Смотрим ваши фото, типаж и цели. Определяем направление: fashion, коммерция, реклама."
+   },
+   {
+    "title": "Онлайн-обучение",
+    "text": "Позирование, работа с камерой, подиум, уход и стиль — всё, что нужно модели, в удобном формате."
+   },
+   {
+    "title": "Личные рекомендации",
+    "text": "Направляю на нужную съёмку и объясняю, какое портфолио будет работать именно на вас."
+   },
+   {
+    "title": "Рабочее портфолио",
+    "text": "Вы создаёте портфолио в своём городе по чёткому ТЗ — и получаете обратную связь по каждому кадру."
+   },
+   {
+    "title": "Выход в профессию",
+    "text": "Помогаем с кастингами, съёмками и попаданием в базу моделей."
+   }
+  ],
+  "image": "media/img/t1-5480.webp",
+  "image2": "media/img/t7-v1.webp",
+  "cta": {
+   "label": "Хочу на онлайн-курс",
+   "href": "#apply"
+  }
+ },
+ "services": {
+  "label": "Ещё",
+  "title": "Дополнительные *возможности*",
+  "items": [
+   {
+    "title": "Фотодни",
+    "text": "Регулярные тематические съёмки — участие по желанию. Обновляйте портфолио и пробуйте новые образы.",
+    "image": "media/img/k1-0323.webp"
+   },
+   {
+    "title": "Продвижение",
+    "text": "Помогаем попасть на кастинги и съёмки, рекомендуем моделей брендам и фотографам.",
+    "image": "media/img/tb-tests_033.webp"
+   },
+   {
+    "title": "База моделей",
+    "text": "После обучения — доступ в базу агентства и реальные проекты.",
+    "image": "media/img/group-4495.webp"
+   }
+  ]
+ },
+ "senior": {
+  "label": "Сейчас востребованы",
+  "big1": "60+",
+  "big2": "70+",
+  "title": "Красота, у которой *есть история*",
+  "text": "Бренды всё чаще ищут взрослых моделей — с характером, опытом и живыми лицами. Если вам 60, 70 или больше и вы давно хотели попробовать — это знак.",
+  "cta": {
+   "label": "Подать заявку в базу",
+   "href": "#apply"
+  }
+ },
+ "gallery": {
+  "label": "Моменты",
+  "title": "Жизнь *школы*",
+  "row1": [
+   "media/img/group-4495.webp",
+   "media/img/k1-0322.webp",
+   "media/img/tb-tests_019.webp",
+   "media/img/lev-lev_025.webp",
+   "media/img/a1-3014.webp",
+   "media/img/t5-5600.webp",
+   "media/img/duo-0745.webp"
+  ],
+  "row2": [
+   "media/img/t2-5520.webp",
+   "media/img/g1-test19_016.webp",
+   "media/img/a2-3026.webp",
+   "media/img/tb-tests_057.webp",
+   "media/img/k1-0328.webp",
+   "media/img/b1-test19_030.webp",
+   "media/img/group-4491.webp"
+  ],
+  "row3": [
+   "media/img/k2-v2.webp",
+   "media/img/tb-tests_048.webp",
+   "media/img/lev-lev_053.webp",
+   "media/img/a1-3016.webp",
+   "media/img/k1-0346.webp",
+   "media/img/g2-test19_041.webp",
+   "media/img/t4-v1.webp"
+  ]
+ },
+ "faq": {
+  "label": "Вопросы",
+  "title": "Частые *вопросы*",
+  "items": [
+   {
+    "q": "С какого возраста можно начать?",
+    "a": "Детский курс — с 3 лет. Есть программы для подростков 12–17 лет и для взрослых от 18 лет без верхней границы. Особенно ждём моделей 60+ и 70+."
+   },
+   {
+    "q": "Нужны ли особые внешние данные или опыт?",
+    "a": "Нет. Мы не учим быть «каким-то» — мы помогаем раскрыть индивидуальность. Рост и параметры важны для отдельных направлений модельного бизнеса, но не для обучения."
+   },
+   {
+    "q": "Что входит в детский курс?",
+    "a": "36 недель (72 часа): подиум, актёрское мастерство, ораторское искусство, хореография, макияж, этикет, стиль и психология. В программу входят 3 съёмки для портфолио и выпускной показ."
+   },
+   {
+    "q": "Сколько стоит обучение?",
+    "a": "Детский курс: 8 000 ₽ за 4 недели или 65 000 ₽ за весь курс. Взрослый курс: 10 000 ₽ за 4 недели или 40 000 ₽ за весь курс."
+   },
+   {
+    "q": "Можно ли учиться, если я живу в другом городе?",
+    "a": "Да. Для иногородних есть онлайн-курс продвижения с личным сопровождением: обучение, рекомендации и рабочее портфолио — удалённо."
+   },
+   {
+    "q": "Как попасть в базу моделей?",
+    "a": "После обучения выпускники получают доступ в базу агентства. Также можно подать заявку через форму на сайте — мы свяжемся с вами."
+   },
+   {
+    "q": "Есть ли пробный урок?",
+    "a": "Да. Запишитесь через форму ниже — выберите удобную дату и время, и мы подтвердим запись."
+   }
+  ]
+ },
+ "apply": {
+  "label": "Запись",
+  "title": "Сделайте *первый шаг*",
+  "text": "Выберите, что вам интересно, — мы ответим в течение дня.",
+  "image": "media/img/k1-0348.webp",
+  "consent": "Я согласен(на) на обработку персональных данных",
+  "success": "Спасибо! Заявка отправлена — мы свяжемся с вами в ближайшее время.",
+  "trialDays": [
+   2,
+   3,
+   4,
+   5,
+   6
+  ],
+  "trialTimes": [
+   "11:00",
+   "13:00",
+   "16:00",
+   "18:00"
+  ],
+  "trialDaysAhead": 21,
+  "delivery": {
+   "method": "messenger",
+   "web3formsKey": "",
+   "formspreeId": "",
+   "telegramBotToken": "",
+   "telegramChatId": "",
+   "messenger": "whatsapp"
+  }
+ },
+ "footer": {
+  "text": "Чувствовать себя — и быть собой.",
+  "copyright": "© SELF • SENSE. Модельное агентство и школа моделей."
+ }
+}
